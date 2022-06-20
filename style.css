@@ -1,0 +1,26 @@
+.num{
+    height: 5vh;
+    width: 5vw;
+}
+.shimanim{
+    height: 5vh;
+    width: 5vw;
+    background-color: rgb(185, 182, 182);
+}
+#shve{
+    
+    width: 5vw;
+    height: 5vh;
+    
+}
+#div_id{
+    width: 20vw;
+    height: 34vh;
+    margin-top: 25vh;
+    margin-left: 40vw;
+    
+}
+#div2{
+    height: 9vh;
+    background-color: purple;
+}
